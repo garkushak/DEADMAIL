@@ -1,14 +1,14 @@
 # DEADMAIL-ULTIMATE-MAIL-BOMBER-BY-MAKAR GARKUSHA
-
+<a href = "
 ## МОЩНЫЙ БОМБЕР ДЛЯ ПОЧТЫ
 ### УСТАНОВКА:
-* 1.apt update 
-* 2. apt upgrade
-* 3.apt install python3
-* 4.git clone https://github.com/garkushak/DEADMAIL-ULTIMATE-MAIL-BOMBER-BY-.git
-* 5.cd DEADMAIL
-* 6. pip install requirements.txt
-* 7. python3 spam.py
+* .apt update 
+* . apt upgrade
+* .apt install python3
+* .git clone https://github.com/garkushak/DEADMAIL-ULTIMATE-MAIL-BOMBER-BY-.git
+* .cd DEADMAIL
+* . pip install requirements.txt
+* . python3 spam.py
 
 
 ### Важно!
