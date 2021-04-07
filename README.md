@@ -1,5 +1,9 @@
 # DEADMAIL-ULTIMATE-MAIL-BOMBER-BY-MAKAR GARKUSHA
-<a href = "
+<p align="center">
+  <img src="https://i.ibb.co/xsdtrSn/2021-04-07-16-41-44.png">
+</p>
+
+
 ## МОЩНЫЙ БОМБЕР ДЛЯ ПОЧТЫ
 ### УСТАНОВКА:
 * .apt update 
